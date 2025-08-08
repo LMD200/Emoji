@@ -18,7 +18,7 @@ This repository features interactive emoji characters with simple mouse-driven a
 git clone https://github.com/LMD200/Sintax-Group-Project.git
 
 # Ensure you have Java installed (Java 8+ recommended)
-# You'll need the wheels.users library available in your IDE/classpath. Attached in the repo
+# You'll need the wheels.users library available in your IDE/classpath. Attached in the repo in the "lib" folder.
 # Open in your preferred Java IDE (IntelliJ IDEA, Eclipse, etc.)
 ```
 
